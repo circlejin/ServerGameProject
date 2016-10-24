@@ -1,0 +1,9 @@
+﻿  SceneManager.cpp
+  Scene.cpp
+  Program.cpp
+  Interface.cpp
+  GameObject.cpp
+  Component.cpp
+  코드를 생성하고 있습니다...
+SceneManager.obj : error LNK2019: __imp__timeGetTime@0 외부 기호(참조 위치: "public: int __thiscall BONE_FRAMEWORK::CSceneManager::Start(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Start@CSceneManager@BONE_FRAMEWORK@@QAEHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 함수)에서 확인하지 못했습니다.
+C:\Users\Parkwonjin\Downloads\ExampleFramework\ExampleFramework\Debug\ExampleFramework.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
