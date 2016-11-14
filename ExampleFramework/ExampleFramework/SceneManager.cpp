@@ -66,13 +66,17 @@ namespace BONE_FRAMEWORK
 				}
 				else
 				{
-					CRenderManager::GetInstance()->Render();
+					if (CRenderManager::GetInstance()->RenderStart() == NULL)
+						break;
 					TranslateMessage(&message);
 					DispatchMessage(&message);
+					CRenderManager::GetInstance()->RenderFinish();
 				}
 			}
 			else
 			{
+				
+
 				double curTime = (double)timeGetTime();
 				timeDelta = (lastTime - curTime) / 1000;
 
@@ -80,7 +84,9 @@ namespace BONE_FRAMEWORK
 				sceneList[_name]->Render(timeDelta);
 				sceneList[_name]->LateRender(timeDelta);
 
-				lastTime = (double)timeGetTime();			
+				lastTime = (double)timeGetTime();	
+
+				
 			}
 		}
 

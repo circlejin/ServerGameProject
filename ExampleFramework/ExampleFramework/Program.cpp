@@ -15,18 +15,17 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance
 	CRenderManager::GetInstance()->InitializeMembers();
 	CSceneManager::GetInstance()->InitializeMembers();
 
-	CScene* scene = new CScene();
-
-	scene->InitializeMembers();
-
-	CSceneManager::GetInstance()->RegisterScene(scene, "mainScene");
-
-	if (SUCCEEDED(CRenderManager::GetInstance()->InitD3D(hWnd)))
 	{
-		CSceneManager::GetInstance()->Start("mainScene");
-	}
+		CRenderManager::GetInstance()->Create(hWnd);
+		CScene* scene = new CScene();
 
-	scene->ReleaseMembers();
+		scene->InitializeMembers();
+
+		CSceneManager::GetInstance()->RegisterScene(scene, "mainScene");
+		CSceneManager::GetInstance()->Start("mainScene");
+
+		//scene->ReleaseMembers();
+	}
 	CRenderManager::GetInstance()->ReleaseMembers();
 	CSceneManager::GetInstance()->ReleaseMembers();
 

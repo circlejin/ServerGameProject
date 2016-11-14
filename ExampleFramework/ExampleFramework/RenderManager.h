@@ -4,25 +4,20 @@
 
 namespace BONE_FRAMEWORK
 {
-	struct CUSTOMVERTEX
-	{
-		FLOAT x, y, z, rhw;
-		DWORD color;
-	};
-
 	class CRenderManager : public ISingleton<CRenderManager>
 	{
 	private:
-		LPDIRECT3D9			g_pD3D;
-		LPDIRECT3DDEVICE9	g_pd3dDevice;
-		LPDIRECT3DVERTEXBUFFER9 g_pVB;
+		LPDIRECT3D9			d3d9;
 
 	public:
+		LPDIRECT3DDEVICE9	d3dDevice;
+
 		virtual BOOL InitializeMembers();
 		virtual BOOL ReleaseMembers();
 
-		HRESULT InitD3D(HWND _hWnd);
-		HRESULT InitVB();
-		VOID Render();
+		HRESULT Create(HWND _hWnd);
+
+		BOOL RenderStart();
+		VOID RenderFinish();
 	};
 }
