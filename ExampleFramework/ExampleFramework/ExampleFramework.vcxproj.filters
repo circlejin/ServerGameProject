@@ -51,6 +51,15 @@
     <ClInclude Include="Texture.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="BackGround.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SceneManager.cpp">
@@ -75,6 +84,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Texture.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGround.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

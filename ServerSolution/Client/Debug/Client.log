@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+c:\users\parkwonjin\desktop\serversolution\server\protocol.h(69): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_PROTOCOL' 왼쪽은 무시됩니다.
+  Client.cpp
+LINK : fatal error LNK1104: '../LowLib/Debug/LowLib.lib' 파일을 열 수 없습니다.

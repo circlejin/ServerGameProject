@@ -1,0 +1,38 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/Protocol.h(69): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_PROTOCOL' 왼쪽은 무시됩니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(119): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(119): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(122): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(122): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(127): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(127): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(139): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(139): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(151): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(151): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(154): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(154): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(159): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(159): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(171): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(171): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(174): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(174): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(189): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(189): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(201): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(201): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(204): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(204): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(219): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(219): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(223): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(223): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(235): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(235): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(247): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(247): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(251): error C2664: 'char *_tcsncpy(char *,const char *,std::size_t)': 인수 1을(를) 'WCHAR [32]'에서 'char *'(으)로 변환할 수 없습니다.
+  c:\users\parkwonjin\desktop\serversolution\client\../Server/PT_WritePacket.h(251): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.

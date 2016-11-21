@@ -1,0 +1,62 @@
+﻿  stdafx.cpp
+  PacketGenerator.cpp
+PacketGenerator.cpp(36): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: '_snwprintf' 선언을 참조하십시오.
+PacketGenerator.cpp(37): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: '_snwprintf' 선언을 참조하십시오.
+PacketGenerator.cpp(38): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: '_snwprintf' 선언을 참조하십시오.
+PacketGenerator.cpp(42): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: '_wfopen' 선언을 참조하십시오.
+PacketGenerator.cpp(67): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(204): note: 'wcsncpy' 선언을 참조하십시오.
+PacketGenerator.cpp(103): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(204): note: 'wcsncpy' 선언을 참조하십시오.
+PacketGenerator.cpp(114): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(204): note: 'wcsncpy' 선언을 참조하십시오.
+PacketGenerator.cpp(117): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(204): note: 'wcsncpy' 선언을 참조하십시오.
+PacketGenerator.cpp(123): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: 'wcscpy' 선언을 참조하십시오.
+PacketGenerator.cpp(133): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: '_wfopen' 선언을 참조하십시오.
+PacketGenerator.cpp(157): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: '_wfopen' 선언을 참조하십시오.
+PacketGenerator.cpp(208): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: '_wfopen' 선언을 참조하십시오.
+PacketGenerator.cpp(264): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(266): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(276): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(278): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(280): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(284): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(286): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(291): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(294): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(295): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(296): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(300): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(302): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(304): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(306): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(308): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+PacketGenerator.cpp(310): warning C4996: '_wcslwr': This function or variable may be unsafe. Consider using _wcslwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(389): note: '_wcslwr' 선언을 참조하십시오.
+  PacketGenerator.vcxproj -> C:\Users\Parkwonjin\Downloads\5674-349\x64\Debug\PacketGenerator.exe
+  PacketGenerator.vcxproj -> C:\Users\Parkwonjin\Downloads\5674-349\x64\Debug\PacketGenerator.pdb (Full PDB)

@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+c:\users\parkwonjin\downloads\5674-349\client\../Server/Protocol.h(69): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_PROTOCOL' 왼쪽은 무시됩니다.
+  Client.cpp
+Client.cpp(59): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(68): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(82): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(88): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(94): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(100): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(106): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(130): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(160): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(173): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(178): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(183): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(188): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(193): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(215): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(239): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(250): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(255): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(260): error C3861: '_getts': 식별자를 찾을 수 없습니다.
+Client.cpp(280): error C3861: '_getts': 식별자를 찾을 수 없습니다.

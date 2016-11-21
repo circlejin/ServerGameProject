@@ -49,11 +49,8 @@ namespace BONE_FRAMEWORK
 
 		d3dDevice->Clear(0, NULL, D3DCLEAR_TARGET, D3DCOLOR_XRGB(0, 0, 255), 1.0f, 0);
 
-		if (SUCCEEDED(d3dDevice->BeginScene()))
-		{
-						
-		}
-
+		d3dDevice->BeginScene();
+		
 		return TRUE;
 	}
 

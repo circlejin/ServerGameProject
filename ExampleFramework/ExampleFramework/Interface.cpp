@@ -9,13 +9,12 @@ namespace BONE_FRAMEWORK
 	LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 	{
 		switch (iMessage) {
-		case WM_PAINT:
-			//CRenderManager::GetInstance()->Render();
-			return 0;
+		case WM_MOUSEMOVE:
+			break;
 
 		case WM_DESTROY:
-			PostQuitMessage(0);
 			CRenderManager::GetInstance()->ReleaseMembers();
+			PostQuitMessage(0);
 			return 0;
 		}
 		return(DefWindowProc(hWnd, iMessage, wParam, lParam));

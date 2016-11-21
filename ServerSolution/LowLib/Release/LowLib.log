@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+  CircularQueue.cpp
+  ClientSession.cpp
+  Crypt.cpp
+  EventSelect.cpp
+  IniFile.cpp
+  Iocp.cpp
+  MiniDump.cpp
+  NetworkSession.cpp
+  PacketSession.cpp
+  Profile.cpp
+  Random.cpp
+  Registry.cpp
+  Service.cpp
+  Stream.cpp
+  코드를 생성하고 있습니다...
+  LowLib.vcxproj -> C:\Users\Parkwonjin\Desktop\ServerSolution\LowLib\Release\LowLib.lib

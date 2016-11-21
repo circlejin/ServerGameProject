@@ -7,6 +7,7 @@
 #include <map>
 #include <d3d9.h>
 #include <d3dx9.h>
+#include <tchar.h>
 
 #pragma warning(disable:4996)
 
