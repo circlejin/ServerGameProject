@@ -23,14 +23,14 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance
 		CRenderManager::GetInstance()->Create(hWnd);
 
 		SmartPointer<CBackGround> backGround;
-		SmartPointer<CPlayer> player;
+		//SmartPointer<CPlayer> player;
 
 		SmartPointer<CScene> scene;
 
 		scene->InitializeMembers();
 		
 		scene->RegisterGameObject(backGround, false);
-		scene->RegisterGameObject(player, false);
+		//scene->RegisterGameObject(player, false);
 
 		CSceneManager::GetInstance()->RegisterScene(scene, "mainScene");
 		CSceneManager::GetInstance()->Start("mainScene");

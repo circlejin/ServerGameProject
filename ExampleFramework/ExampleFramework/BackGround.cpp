@@ -16,7 +16,7 @@ namespace BONE_FRAMEWORK
 		backGround = new CTexture();
 
 		backGround->SetType("Texture");
-		backGround->CreateTexture("Texture/Background/background.jpg");
+		backGround->CreateTexture("../Texture/Background/background.png");
 
 		this->AddComponent(backGround);
 

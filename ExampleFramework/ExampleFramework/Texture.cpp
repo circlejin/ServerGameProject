@@ -41,7 +41,7 @@ namespace BONE_FRAMEWORK
 			NULL,
 			&texture)))
 		{
-			MessageBox(NULL, L"Texture Create Fail", L"Textures.exe", MB_OK);
+			MessageBox(NULL, L"Texture Create Fail", L"Texture Error", MB_OK);
 			return E_FAIL;
 		}
 
